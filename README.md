@@ -66,7 +66,7 @@ replicate
 
 ## Demo
 
-Experience Abby and Abbot [here](https://abby-chatbot.streamlit.app/).
+Experience Abby  [here](https://abby-chatbot.streamlit.app/).
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
 
