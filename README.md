@@ -94,3 +94,5 @@ You can also explore larger models:
 - [GitHub Repository](https://github.com/facebookresearch/llama/tree/main)
 
 ---
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+---
