@@ -24,19 +24,20 @@ Abby is designed to provide emotional support, meaningful advice, and a positive
 
 ## Functionality
 
-[![abby-chatbot](https://files.juanjaramillo.tech/abby.webp)]([https://abby-chatbot.streamlit.app](https://abby-chatbot.streamlit.app))
 
 ### Abby
 - **Nurturing and Patient**: Offers emotionally supportive advice.
 - **Optimistic and Inspirational**: Focuses on the silver lining.
 - **Affectionate Terminology**: Uses terms like 'dear' or 'honey'.
 
-[![abbot-chatbot](https://files.juanjaramillo.tech/abbot.webp)]([https://abbot-chatbot.streamlit.app](https://abbot-chatbot.streamlit.app))
+[![abby-chatbot](https://files.juanjaramillo.tech/abby.webp)]([https://abby-chatbot.streamlit.app](https://abby-chatbot.streamlit.app))
 
 ### Abbot
 - **Brutally Honest Feedback**: Doesn't hold back on criticisms.
 - **Supportive When Needed**: Recognizes and encourages achievements.
 - **Timeless Wisdom**: Provides Stoic advice tailored to your situation.
+
+[![abbot-chatbot](https://files.juanjaramillo.tech/abbot.webp)]([https://abbot-chatbot.streamlit.app](https://abbot-chatbot.streamlit.app))
 
 Both Abby and Abbot offer:
 - **Personalization**: Uses your name for a more personalized interaction.
