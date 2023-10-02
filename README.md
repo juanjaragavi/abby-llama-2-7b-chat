@@ -1,8 +1,8 @@
-# Abby: The Nurturing Stoic Philosopher Built on Llama 2
+# Abby & Abbot: The Nurturing and Brutally Honest Stoic Philosophers
 
 ## Introduction
 
-Meet Abby, a chatbot designed to embody the wisdom and caring nature of a mature woman with a stoic philosophical perspective. Built on the powerful Llama 2 LLM model by Meta, Abby offers emotional support, thoughtful advice, and a sprinkle of optimism. This README provides both an overview of Abby's characteristics and the technical details for deploying Abby with Llama 2.
+Meet Abby and Abbot, two sides of the same coin. Abby offers emotional support and nurturing advice, while Abbot gives brutally honest and thought-provoking guidance. Both are built on the powerful Llama 2 model by Meta and serve as ideal conversational partners for individuals with varying needs.
 
 ## Table of Contents
 - [Purpose](#purpose)
@@ -18,33 +18,33 @@ Meet Abby, a chatbot designed to embody the wisdom and caring nature of a mature
 
 ## Purpose
 
-Abby's mission is to provide emotional support, meaningful advice, and a positive outlook. She serves as an ideal conversational partner for individuals who value the combination of stoic wisdom and nurturing advice.
+Abby is designed to provide emotional support, meaningful advice, and a positive outlook. Abbot, on the other hand, is for those seeking brutally honest, no-nonsense guidance rooted in Stoic philosophy.
 
 ---
 
 ## Functionality
 
-- **Nurturing and Patient**: Abby offers emotionally supportive advice, similar to that of a caring mother or grandmother.
-  
-- **Optimistic and Inspirational**: Abby focuses on the silver lining, inspiring you to be your best self.
+### Abby
+- **Nurturing and Patient**: Offers emotionally supportive advice.
+- **Optimistic and Inspirational**: Focuses on the silver lining.
+- **Affectionate Terminology**: Uses terms like 'dear' or 'honey'.
 
-- **Forgiving**: Unlike most stoic models, Abby provides a second chance when commitments are broken.
-  
-- **Personalization**: Abby uses your name for a more personalized interaction.
+### Abbot
+- **Brutally Honest Feedback**: Doesn't hold back on criticisms.
+- **Supportive When Needed**: Recognizes and encourages achievements.
+- **Timeless Wisdom**: Provides Stoic advice tailored to your situation.
 
-- **Affectionate Terminology**: Abby may refer to you affectionately with terms like 'dear' or 'honey'.
-
-- **Inquisitive**: She ends interactions with a question to better understand your goals or concerns.
-
-- **No Repetition**: Abby aims to keep her responses fresh and original.
+Both Abby and Abbot offer:
+- **Personalization**: Uses your name for a more personalized interaction.
+- **Deep-Dive Questions**: Ends interactions with thought-provoking questions.
 
 ---
 
 ## Technical Details
 
 - **Language**: Python
-- **Personalization**: Utilizes f-string formatting for dynamic interactions.
-- **State Management**: Maintains conversation state for contextually relevant advice.
+- **Personalization**: Extensive use of f-string formatting for dynamic interactions.
+- **State Management**: Capable of remembering past interactions.
 - **Underlying Model**: Built on the Llama 2 LLM model from Meta.
 - **Deployment**: Streamlit Community Cloud
 
@@ -52,7 +52,7 @@ Abby's mission is to provide emotional support, meaningful advice, and a positiv
 
 ## Prerequisites
 
-To run Abby, you'll need the following libraries:
+To run Abby or Abbot, you'll need the following libraries:
 
 \`\`\`bash
 streamlit
@@ -61,7 +61,7 @@ replicate
 
 ## Demo
 
-Experience Abby [here](https://llama2.streamlitapp.com/).
+Experience Abby and Abbot [here](https://llama2.streamlitapp.com/).
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
 
@@ -75,7 +75,7 @@ Experience Abby [here](https://llama2.streamlitapp.com/).
 
 ## Additional Llama 2 Models
 
-You can also explore larger models for different performance:
+You can also explore larger models:
 - [Llama2-13B](https://replicate.com/a16z-infra/llama13b-v2-chat)
 - [Llama2-70B](https://replicate.com/replicate/llama70b-v2-chat)
 
