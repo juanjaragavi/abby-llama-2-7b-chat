@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  juan-jaramillo-service:
+    image: abby-llama-2-7b-chat
+    container_name: abby-llama-2-7b-chat
+    ports:
+      - "8502:8502"
+    volumes:
+      - juan-jaramillo-assets-storage:/app/data
+
+volumes:
+  juan-jaramillo-assets-storage:
