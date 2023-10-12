@@ -1,7 +1,9 @@
 version: '3.8'
 
 services:
-  juan-jaramillo-service:
+  abby-llama-2-7b-chat:
+    build: 
+      context: .
     image: abby-llama-2-7b-chat
     container_name: abby-llama-2-7b-chat
     ports:
